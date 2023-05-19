@@ -1,0 +1,16 @@
+.link {
+    color: rgb(4, 4, 187);
+}
+
+.link:hover {
+    color: rgb(168, 8, 168);
+}
+
+.box {
+    display: flex;
+    gap: 20px;
+}
+
+.class {
+    text-align: center;
+}
